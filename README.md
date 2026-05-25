@@ -21,6 +21,7 @@ import numpy as np
 matrix = np.array([[2, 2], [1, 3]])
 eigenvalues, eigenvectors = np.linalg.eig(matrix)
 print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
+
 ## Output:
 <img width="1544" height="980" alt="image" src="https://github.com/user-attachments/assets/27729dc8-a23b-4369-9072-aa059ec56b91" />
 
